@@ -5,7 +5,7 @@
 - 📫 You can reach me through:  
   - **[Facebook](https://www.facebook.com/bhaskar.bhatt.94849 "Visit my Facebook profile")**  
   - **[LinkedIn](https://www.linkedin.com/in/bhatt-bhaskar-0b2808278/ "Visit my LinkedIn profile")**  
-  - **Gmail:** [079bei013.bhaskar@pcampus.edu.np](mailto:079bei013.bhaskar@pcampus.edu.np)
+  - **Gmail:** [079bei013.bhaskar@pcampus.edu.np](mailto:bhattabhaskaratech31@gmail.com)
 
 ---
 
