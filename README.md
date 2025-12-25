@@ -1,13 +1,8 @@
-# 👋 Hi, I’m Bhaskar Bhatt
 
-- 👀 I’m interested in **Web Development**, **Machine Learning**, and **Data Analysis**.
-- 🌱 I’m currently learning **Python**.
-- 📫 You can reach me through:  
-  - **[Facebook](https://www.facebook.com/bhaskar.bhatt.94849 "Visit my Facebook profile")**  
-  - **[LinkedIn](https://www.linkedin.com/in/bhatt-bhaskar-0b2808278/ "Visit my LinkedIn profile")**  
-  - **Gmail:** [bhattabhaskaratech31@gmail.com](mailto:bhattabhaskaratech31@gmail.com)
 
-# 👋 Hi, I'm Bhaskar
+## 👨‍🎓 BHASKAR BHATT | ELECTRONICS, COMMUNICATION & INFORMATION ENGINEERING  
+### IOE PULCHOWK CAMPUS
+
 
 ## 🚀 About Me
 - 🎓 Learning DevOps & Cloud
