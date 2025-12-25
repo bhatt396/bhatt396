@@ -7,7 +7,6 @@
 ## 🚀 About Me
 - 🎓 Learning DevOps & Cloud
 - 💻 Interested in Linux, CI/CD, Automation
-- 🌱 Currently learning Jenkins, Docker, Git
  - **[Facebook](https://www.facebook.com/bhaskar.bhatt.94849 "Visit my Facebook profile")**  
   - **[LinkedIn](https://www.linkedin.com/in/bhatt-bhaskar-0b2808278/ "Visit my LinkedIn profile")**  
   - **Gmail:** [bhattabhaskaratech31@gmail.com](mailto:bhattabhaskaratech31@gmail.com)
