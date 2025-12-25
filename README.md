@@ -28,14 +28,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhatt396&show_icons=true)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=bhatt396)
-
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhatt396)
-
-
